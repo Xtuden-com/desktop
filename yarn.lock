@@ -7063,10 +7063,10 @@ gatsby-interface@^0.0.193:
     lodash.sample "^4.2.1"
     theme-ui "^0.2.49"
 
-gatsby-interface@^0.0.222:
-  version "0.0.222"
-  resolved "https://registry.yarnpkg.com/gatsby-interface/-/gatsby-interface-0.0.222.tgz#ae42c3ca0bc5eb21da0f60a24f58ff7cabf1a4ca"
-  integrity sha512-mOyJPEESMH1akBpIV8m59A7C2k7ka/ABv5HqVxoaxFY/QcQZ4kt6Qa0cGS7/+jHublgy8swKAz+DP4/4YMTlww==
+gatsby-interface@^0.0.231:
+  version "0.0.231"
+  resolved "https://registry.yarnpkg.com/gatsby-interface/-/gatsby-interface-0.0.231.tgz#26f22c52423aee85641923e966e786dbacc17508"
+  integrity sha512-PCIfWVl8QfNuvcYYzNy1ZZGpK3oFn7QQlcCpoB/sjCciYxWRv7PEvjyGUD3Hiv1lZxJPCDjHY6TSIG8xTaVacQ==
   dependencies:
     "@mdx-js/react" "^1.5.2"
     "@reach/alert" "0.10.3"
