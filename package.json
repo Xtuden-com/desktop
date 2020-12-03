@@ -20,7 +20,7 @@
     "execa": "^4.0.3",
     "express": "^4.17.1",
     "fix-path": "^3.0.0",
-    "formik": "^2.2.0",
+    "formik": "^2.2.5",
     "fs-extra": "^9.0.1",
     "gatsby": "^2.24.84",
     "gatsby-design-tokens": "^2.0.13",
